@@ -5,9 +5,9 @@
 }
 
 @font-face {
-  font-family: 'Montserrat-Black';
-  src: local('Montserrat-Black'),
-    url('./fonts/Montserrat-Black.ttf') format('truetype');
+  font-family: 'Montserrat-Bold';
+  src: local('Montserrat-Bold'),
+    url('./fonts/Montserrat-Bold.ttf') format('truetype');
 }
 
 
@@ -194,7 +194,7 @@ div.mobile{
 }
 
 .howWeWork-conteiner h2{
-  font-family: 'Montserrat';
+  font-family: 'Montserrat-Bold';
   font-weight: 700;
   color: #fff;
   font-size: 2.19vw;
@@ -227,7 +227,7 @@ img.howWeWorkRectangle{
 }
 
 .safe-conteiner-content h2{
-  font-family: 'Montserrat';
+  font-family: 'Montserrat-Bold';
   font-weight: 700;
   color: #fff;
   font-size: 1.30vw;
@@ -268,7 +268,7 @@ img.howWeWorkRectangle{
 }
 
 .safe-conteiner-button h2{
-  font-family: 'Montserrat';
+  font-family: 'Montserrat-Bold';
   font-weight: 700;
   color: #fff;
   font-size: 2.66vw;
@@ -287,7 +287,7 @@ img.howWeWorkRectangle{
 }
 
 .safe-conteiner-button h4{
-  font-family: 'Montserrat';
+  font-family: 'Montserrat-Bold';
   font-weight: 700;
   color: #fff;
   font-size: 1.30vw;
@@ -385,7 +385,7 @@ img.howWeWorkRectangle{
 
 
 .strategies-title h2{
-  font-family: 'Montserrat';
+  font-family: 'Montserrat-Bold';
   font-weight: 700;
   color: #fff;
   font-size: 1.30vw;
@@ -464,7 +464,7 @@ img.howWeWorkRectangle{
 }
 
 .feedback-conteiner-title h2{
-  font-family: 'Montserrat';
+  font-family: 'Montserrat-Bold';
   font-weight: 700;
   color: #fff;
   font-size: 2.29vw;
