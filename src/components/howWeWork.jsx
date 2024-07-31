@@ -72,7 +72,9 @@ const HowWeWork = () => {
                                             <h4>$</h4>
                                             <h2>500</h2>
                                         </div>
-                                    <button className="invest-button">Инвестировать</button>
+                                    <form action="https://axiom-psi.vercel.app/">
+                                        <button  className="invest-button">Инвестировать</button>
+                                    </form>
                                 </div>
                             </div>
                         </div>
